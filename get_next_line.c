@@ -17,9 +17,7 @@ char	*ft_get_line(char *save)
 	char	*new_line;
 	int		i;
 
-	i = 0;
-	while (save && save[i] != '\0' && save[i] != '\n')
-		i++;
+	i = ft_get_line_size(save);
 	if (!(new_line = malloc((i + 1))))
 		return (NULL);
 	i = 0;
