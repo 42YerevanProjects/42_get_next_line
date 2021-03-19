@@ -13,10 +13,11 @@ Return value ... 1 : A line has been read
 
 Description
 
-• A function which returns a line read from a file descriptor, without the newline. (without bonuses) 
+• A function which returns a line read from a file descriptor, without the newline. (without bonuses)
+
 • The program must compile with the flag -D BUFFER_SIZE=xx. which will be used
-as the buffer size for the read calls in your get_next_line. This value will be
-modified by your evaluators and by moulinette.
+as the buffer size for the read calls in your get_next_line.
+
 • Compilation will be done this way : gcc -Wall -Wextra -Werror -D BUFFER_SIZE=32
 get_next_line.c get_next_line_utils.c
 
