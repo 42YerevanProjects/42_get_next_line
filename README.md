@@ -21,3 +21,4 @@ as the buffer size for the read calls in your get_next_line.
 • Compilation will be done this way : gcc -Wall -Wextra -Werror -D BUFFER_SIZE=32
 get_next_line.c get_next_line_utils.c
 
+Read more on Get_next_line.pdf 
