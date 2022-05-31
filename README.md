@@ -7,6 +7,8 @@ This project will not only allow you to add a very convenient function to your c
 but it will also allow you to learn a highly interesting new concept in C programming: 
 **"static variables"**
 
+> ⚠️ **Warning**: Don't copy/paste code you don't understand: it's bad for you, and for the school.
+
 ## About the project
 
 ### Function Prototype
