@@ -36,6 +36,20 @@ file ends.
  |  0| EOF has been reached |
  |  -1| An error happened |
 
+## Resources
+
+Videos
+
+- [Open, Read, Write](https://youtu.be/dP3N8g7h8gY)
+- [Files in C](https://youtu.be/BQJBe4IbsvQ)
+- [File I/O](https://youtu.be/m7E9piHcfr4)
+- [Static Variables in C](https://youtu.be/OngGUoENgWo)
+
+Links
+
+- [I/O system calls in C](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)
+- [Static variables in C](https://www.geeksforgeeks.org/static-variables-in-c/)
+- [File descriptors in C](https://hacksland.net/c-programming-file-descriptors)
 
 ## Additional info
 If you are going to use this file in your 42 project please double check the norms and then validity of the 
