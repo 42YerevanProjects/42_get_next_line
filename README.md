@@ -9,8 +9,6 @@ but it will also allow you to learn a highly interesting new concept in C progra
 
 ## About the project
 
-**GNL Mandatory Part**
-
 ### Function Prototype
 ```c
 int	get_next_line(int fd, char **line);
@@ -35,18 +33,6 @@ file ends.
  |  1| A line has been read |
  |  0| EOF has been reached |
  |  -1| An error happened |
-
-
-### Functions Used
-
-**External Functions**
-
-  | Function | Description         |
- |-----------|----------------------|
- |  read() | A line has been read |
- |  malloc() | EOF has been reached |
- |  free() | An error happened |
-
 
 
 ### Additional info
