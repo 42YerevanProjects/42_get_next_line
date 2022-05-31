@@ -37,6 +37,7 @@ file ends.
  |  -1| An error happened |
 
 
-### Additional info
-If you are going to use this file in your 42 project please double check the norms. If you want to understand
-the project better read the [Get_next_line.pdf](Get_next_line.pdf). If you find any bugs write an issue.
+## Additional info
+If you are going to use this file in your 42 project please double check the norms and then validity of the 
+subject file. If you want to understand the project better read the [Get_next_line.pdf](Get_next_line.pdf). 
+If you find any bugs write an issue.
